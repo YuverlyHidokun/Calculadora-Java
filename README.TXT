@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+EL protecto se tubo que crear en bluej debido a incompatibilidad de mi
+computadora con el programa de intellij
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Calculadora
+PURPOSE OF PROJECT: Ser unca calculadora hecha en Java con interfaz Greafica
+VERSION or DATE: V1.0
+AUTHORS: Yuverly Verdezoto
 USER INSTRUCTIONS:
